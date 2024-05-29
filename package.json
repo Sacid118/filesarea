@@ -1,0 +1,13 @@
+{
+    "name": "sezgin/filesarea",
+    "description": "Files Archive by Sonja Broda",
+    "author": "Sacid Sezgin <sezgin@gfg-id.de>",
+    "credit": "Sonja Broda",
+    "version": "1.0.0",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "scripts": {
+        "dev": "npx -y kirbyup src/index.js --watch",
+        "build": "npx -y kirbyup src/index.js"
+    }
+}
