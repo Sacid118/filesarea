@@ -1,0 +1,16 @@
+{
+    "name": "sezgin/filesarea",
+    "type": "kirby-plugin",
+    "version": "1.0.0",
+    "homepage": "https://gfg-id.de",
+    "license": "MIT",
+    "authors": [
+        {
+          "name": "Sonja Broda"
+        },
+        {
+          "name": "Sacid Sezgin",
+          "email": "sezgin@gfg-id.de"
+        }
+    ]
+}
