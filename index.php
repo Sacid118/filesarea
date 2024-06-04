@@ -6,7 +6,7 @@
  * @version 1.0.0
  * @author Sacid Sezgin <sezgin@gfg-id.de>
  * @copyright Sacid Sezgin <sezgin@gfg-id.de>
- * @link https://github.com/Sacid118/filesarea
+ * @link https://github.com/sacidsezgin/filesarea
  * @license MIT
 **/
 
