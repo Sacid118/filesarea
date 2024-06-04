@@ -12,7 +12,7 @@
 
 use Kirby\Cms\App as Kirby;
 
-Kirby::plugin('Trigga28/filesarea', [
+Kirby::plugin('sacidsezgin/filesarea', [
 	'areas' => [
 		'files' => [
 			'label'   => 'Dateimanager',
