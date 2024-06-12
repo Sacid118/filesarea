@@ -3,7 +3,7 @@
 /**
  * Files and Images Manager
  *
- * @version 1.0.0
+ * @version 1.0.1
  * @author Sacid Sezgin <sezgin@gfg-id.de>
  * @copyright Sacid Sezgin <sezgin@gfg-id.de>
  * @link https://github.com/sacidsezgin/filesarea
