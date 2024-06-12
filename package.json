@@ -3,7 +3,7 @@
     "description": "Files Archive by Sonja Broda",
     "author": "Sacid Sezgin <sezgin@gfg-id.de>",
     "credit": "Sonja Broda",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "kirby-plugin",
     "license": "MIT",
     "require": {
